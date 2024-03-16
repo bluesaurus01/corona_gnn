@@ -1,6 +1,6 @@
 # Corona prediction using GNN
 
-## testGNN.ipyn
+## testGNN.ipynb
 Main file that contains GNN application and it's result
 
 ## PatientInfo.csv
